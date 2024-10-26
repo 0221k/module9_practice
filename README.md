@@ -22,13 +22,12 @@ python manage.py createsuperuser
 Создаём суперюзера для админ панели.
 Заходим в админ панель, проверяем всё, что нужно.
 Готово.
-
+'''
 
 ![m9_p1_lvl1_2](m9_p1_lvl1_2.png)
-![m9_p1_lvl3](m9_p1_lvl1_3.png)
-![m9_p1_lvl3_1](m9_p1_lvl1_3_1.png)
-![m9_p1_lvl3_2](m9_p1_lvl1_3_2.png)
-'''
+![m9_p1_lvl3](m9_p1_lvl3.png)
+![m9_p1_lvl3_1](m9_p1_lvl3_1.png)
+![m9_p1_lvl3_2](m9_p1_lvl3_2.png)
 
 ## m9 p1 lvl2
 
